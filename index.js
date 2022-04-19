@@ -31,7 +31,7 @@ const app = {
           {
             name: "Tu Phir Se Aana",
             singer: "Raftaar x Salim Merchant x Karma",
-            path: "https://mp3.vlcmusic.com/download.php?track_id=34213&format=320",
+            path: "https://zingmp3.vn/bai-hat/Buon-Khong-The-Buong-DREAMeR-Phi-Phuong-Anh-RIN9-MiiNa/ZZA09OUC.html",
             image:
               "https://1.bp.blogspot.com/-kX21dGUuTdM/X85ij1SBeEI/AAAAAAAAKK4/feboCtDKkls19cZw3glZWRdJ6J8alCm-gCNcBGAsYHQ/s16000/Tu%2BAana%2BPhir%2BSe%2BRap%2BSong%2BLyrics%2BBy%2BRaftaar.jpg"
           },
@@ -39,7 +39,7 @@ const app = {
             name: "Naachne Ka Shaunq",
             singer: "Raftaar x Brobha V",
             path:
-              "https://mp3.filmysongs.in/download.php?id=Naachne Ka Shaunq Raftaar Ft Brodha V Mp3 Hindi Song Filmysongs.co.mp3",
+              "https://mp3.filmysongs.in/download.php?id=Naachnhttps://zingmp3.vn/embed/song/ZZA60E6I",
             image: "https://i.ytimg.com/vi/QvswgfLDuPg/maxresdefault.jpg"
           },
           {
